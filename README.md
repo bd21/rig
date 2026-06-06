@@ -54,6 +54,9 @@ If I could have found a similarly priced board with more slots, I would have, bu
 
 The stock cooler is fine but my cpu didn't come with one.  Comes with thermal paste.
 
+### GPUs
+
+1 Gigabyte card, one MSI card.  The gigabyte card was throttling due to high temps so I took it apart and replaced the thermal pads (Gelid Ultimate 1,2,3mm).  The thickness of these pads matters a lot.  I will add some pictures of this eventually.
 ### Power supply
 
 [Corsair HX1200i 1200W](https://www.ebay.com/itm/358475724644)
