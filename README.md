@@ -55,15 +55,10 @@ The stock cooler is fine but my cpu didn't come with one.  Comes with thermal pa
 
 ### GPUs
 
-1 Gigabyte Gaming OC card, 1 Asus card.  The Gigabyte card was throttling due to high temps so I took it apart and replaced the thermal pads (Gelid Ultimate 1,2,3mm).  The thickness of these pads matters a lot.
-
-Gelid Ultimates are the best.
+1 Gigabyte Gaming OC card, 1 Asus card.  The Gigabyte card was throttling due to high temps so I took it apart and replaced the thermal pads (Gelid Ultimate 1,2,3mm).  The thickness of these pads matters a lot, there needs to be contact between PCB <> Pad <> heatsink/backplate.
 
 [Front](https://www.reddit.com/r/EtherMining/comments/lkakam/gigabyte_3090_gaming_oc_thermal_pad_replacement/l5hrwjm/)
 [Back] - TODO
-
-
-![Uploading image.png…]()
 
 ### Power supply
 
