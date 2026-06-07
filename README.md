@@ -73,3 +73,7 @@ Corsair is a great brand and 1600w was overkill.
 [Kingston 1tb NVME SSD](https://www.amazon.com/dp/B0DBR3DZWG?ref=ppx_yo2ov_dt_b_fed_asin_title&th=1)
 
 $163 is stupid for storage but it's enough to hold enough models.  Storage speed only matters when loading the models.
+
+## Hit the road
+
+https://github.com/noonghunna/club-3090/blob/master/docs/GETTING_STARTED.md
