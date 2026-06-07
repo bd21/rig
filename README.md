@@ -64,8 +64,7 @@ The stock cooler is fine but my cpu didn't come with one.  Comes with thermal pa
 
 [Corsair HX1200i 1200W](https://www.ebay.com/itm/358475724644)
 
-I undervolt the 2 3090s from 350w -> 200w for thermal reasons (at ~5% performance loss), but I just wanted something reliable.
-Corsair is a great brand and 1600w was overkill.
+Corsair is a reliable brand.  I undervolt the 2 3090s from 350w -> 200w for thermal reasons (at ~5% performance loss), so 1200w is somewhat overkill.
 
 ### Memory
 
