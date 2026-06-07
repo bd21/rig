@@ -40,14 +40,13 @@ Ziptied to the back and front of the cards, blowing from the back of the case to
 ### CPU
 AMD Ryzen™ 9 5900XT 16-Core, 32-Thread
 - Originally bought the AMD Ryzen 5 5500 but it didn't support pci 4.0.
-- I started with intel but moved to AMD AM4 for cost reasons.  Both are fine.
 
 ### Motherboard
 Asus ROG Crosshair VIII Hero AM4 ATX AMD DDR4 Motherboard
 
-I chose this board because it supports - PCIe 4.0 x8 / x8 for tensor parallelism.
+It's from 2021 but it supports - PCIe 4.0 x8 / x8 for tensor parallelism.  This is all I really need.
 
-If I could have found a similarly priced board with more slots, I would have, but I don't think I'll upgrade this with more cards in the future.
+If I found a similarly priced board with more slots or more spacing between slots, I would have.  I have no plans on adding more cards to this in the future.
 
 ### CPU Cooler
 [Cooler Master Hyper 212 Black](https://www.amazon.com/dp/B07H25DYM3?ref=ppx_yo2ov_dt_b_fed_asin_title)
@@ -56,7 +55,16 @@ The stock cooler is fine but my cpu didn't come with one.  Comes with thermal pa
 
 ### GPUs
 
-1 Gigabyte card, one MSI card.  The gigabyte card was throttling due to high temps so I took it apart and replaced the thermal pads (Gelid Ultimate 1,2,3mm).  The thickness of these pads matters a lot.  I will add some pictures of this eventually.
+1 Gigabyte Gaming OC card, 1 Asus card.  The Gigabyte card was throttling due to high temps so I took it apart and replaced the thermal pads (Gelid Ultimate 1,2,3mm).  The thickness of these pads matters a lot.
+
+Gelid Ultimates are the best.
+
+[Front](https://www.reddit.com/r/EtherMining/comments/lkakam/gigabyte_3090_gaming_oc_thermal_pad_replacement/l5hrwjm/)
+[Back] - TODO
+
+
+![Uploading image.png…]()
+
 ### Power supply
 
 [Corsair HX1200i 1200W](https://www.ebay.com/itm/358475724644)
