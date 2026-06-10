@@ -37,6 +37,11 @@ Ziptied to the back and front of the cards, blowing from the back of the case to
 - For these cards, the backplate gets the hottest because of the vram.  The fans blow air across the plates.  Intake from the back, exhaust through the front.
 - I also added [a heatsink](https://www.amazon.com/dp/B089QJQY17?ref=ppx_yo2ov_dt_b_fed_asin_title) to sit on the backplate of the right card.  The case sits with the left side on the bottom and right side (power supply side) on the top.
 
+Thermals:
+
+<img width="367" height="101" alt="Screenshot 2026-06-09 at 5 47 57 PM" src="https://github.com/user-attachments/assets/80b8c04b-3396-49b7-9190-c74bf25befb8" />
+
+
 ### CPU
 AMD Ryzen™ 9 5900XT 16-Core, 32-Thread
 - Originally bought the AMD Ryzen 5 5500 but it didn't support pci 4.0.
